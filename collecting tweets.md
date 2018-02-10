@@ -33,3 +33,4 @@ bitcoin_corpus<-VCorpus(bitcoin_source)
 bitcoin_corpus
 bitcoin_corpus[[2]]
 bitcoin_corpus[[2]][2]
+ 
